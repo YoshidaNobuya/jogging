@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("入力してください");
 		Scanner sc = new Scanner(System.in);
 /*
+入力データ例
 6 7 4 cathy 4 eijiro 2 alice 6 dad 3 betty 5 franca 1 2 eijiro 1 3 alice 6 4 alice 1 4 franca 3 5 cathy 7 9 dad 2 12 betty 4
 3 4 3 itiro 16 jiro 26 saburo 326 1 itiro 16 1 jiro 6 2 jiro 26 3 itiro 16
  */
